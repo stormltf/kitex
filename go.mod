@@ -7,6 +7,7 @@ require (
 	github.com/bytedance/gopkg v0.0.0-20210910103821-e4efae9c17c3
 	github.com/cespare/xxhash v1.1.0
 	github.com/choleraehyq/pid v0.0.13
+	github.com/cloudwego/frugal v0.0.0-20220408111734-9ac2a9eb29be
 	github.com/cloudwego/netpoll v0.2.0
 	github.com/cloudwego/netpoll-http2 v0.0.6
 	github.com/cloudwego/thriftgo v0.1.2
